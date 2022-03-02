@@ -1,8 +1,8 @@
 # CodeWarbler
 
-CodeWarbler is a collection of browser-based applications for sound and music composition.
+[CodeWarbler](https://codewarbler.github.io) is a collection of browser-based applications for sound and music composition.
 
-## Software
+## Applications
 
 ### Warbler
 
@@ -13,7 +13,7 @@ CodeWarbler is a collection of browser-based applications for sound and music co
 
 ### Flight
 
-[Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, browser-based, multi-track sound composing environment. Flight documents are composed in JavaScript. The application is built on Tone.js, Tonal.js, P5.js and the Monaco editor.
+[Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, multi-track sound composing environment. Flight documents are composed in JavaScript. The application is built on Tone.js, Tonal.js, P5.js and the Monaco editor.
 
 Unlike Warbler documents, Flight documents can be edited while playing. The Flight editor determines the differences between the code playing and the updated code, then modifies the playback accordingly.
 
