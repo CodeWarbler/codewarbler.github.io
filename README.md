@@ -24,7 +24,7 @@ Flight documents are composed in JavaScript in the form of callback functions (T
 
 **Where is the source code for these projects?**
 
-The repos are here, though the code is not currently published for all projects. The plan is to open source each of these applications at the 0.2 release under a permissive license. If you'd like to help, reach out. The projects are based on Vue 2.
+The repos are [here](https://github.com/CodeWarbler/), though the code is not currently published for all projects. The plan is to open source each of these applications at the 0.2 release under a permissive license. If you'd like to help, reach out. The projects are based on Vue 2.
 
 **If I make a composition, where is the composition stored?**
 
