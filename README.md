@@ -6,7 +6,7 @@
 
 ### Warbler
 
-[Warbler](https://codewarbler.github.io/warbler/0.1/) is a sketchpad for Tone.js code. Its goal is to seamlessly visualize Tone.js constructs and provide simplied user interface conventions to aid in the creation and development of Tone.js-based compositions.
+[Warbler](https://codewarbler.github.io/warbler/0.1/) is a sketchpad for Tone.js code. Its goal is to seamlessly visualize Tone.js constructs and provide simple user interface conventions to aid in the creation and development of Tone.js-based compositions.
 
 - [Examples](https://codewarbler.github.io/warbler/examples/)
 - [Getting started](https://codewarbler.github.io/warbler/tutorial/)
