@@ -13,7 +13,7 @@
 
 ### Flight
 
-[Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, multi-track sound composing environment.
+[Flight](https://codewarbler.github.io/flight/0.1/) is a live-editing, multi-track sound composing environment.
 
 Flight documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Flight documents can be edited while playing. When an updated file is saved in the Flight editor, only the modifed tracks are altered at the next defined interval.
 
