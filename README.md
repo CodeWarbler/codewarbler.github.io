@@ -6,25 +6,19 @@ CodeWarbler is a collection of browser-based applications for sound and music co
 
 ### Warbler
 
-[Warbler](/warbler/0.1/) is a sketchpad for Tone.js code. Its goal is to seamlessly visualize Tone.js constructs and provide simple user interface conventions to aid in the creation and development of Tone.js-based compositions.
+[Warbler](https://codewarbler.github.io/warbler/0.1/) is a sketchpad for Tone.js code. Its goal is to seamlessly visualize Tone.js constructs and provide simple user interface conventions to aid in the creation and development of Tone.js-based compositions.
 
-- [Examples](/warbler/examples/)
-- [Getting started](/warbler/tutorial/)
+- [Examples](https://codewarbler.github.io/warbler/examples/)
+- [Getting started](https://codewarbler.github.io/warbler/tutorial/)
 
 ### Flight
 
-[Flight](/flight/0.1/) is a live-reloading, browser-based, multi-track sound composing environment. Flight documents are composed in JavaScript. The application is built on Tone.js, Tonal.js, P5.js and the Monaco editor.
+[Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, browser-based, multi-track sound composing environment. Flight documents are composed in JavaScript. The application is built on Tone.js, Tonal.js, P5.js and the Monaco editor.
 
 Unlike Warbler documents, Flight documents can be edited while playing. The Flight editor determines the differences between the code playing and the updated code, then modifies the playback accordingly.
 
-- [Examples](/flight/examples/)
-- [Getting started](/flight/tutorial/)
-
-## About
-
-CodeWarbler is currently tended by Joe Weiss.
-
-These projects would not exist without the open source contributors to Tone.js, P5.js, Monaco, Tonal.js and many more. Thank you for your contributions to past and future creative endeavours.
+- [Examples](https://codewarbler.github.io/flight/examples/)
+- [Getting started](https://codewarbler.github.io/flight/tutorial/)
 
 ## Frequently Asked Questions
 
@@ -47,3 +41,9 @@ The applications are not tied to any particular domain. You can download the ent
 **What's with all the bird names?**
 
 I like birds, and names are hard. At the moment, I'm fond of the Gray Catbird and the New Zealand Bellbird (korimako).
+
+## About
+
+CodeWarbler is currently tended by Joe Weiss.
+
+These projects would not exist without the open source contributors to Tone.js, P5.js, Monaco, Tonal.js and many more. Thank you for your contributions to past and future creative endeavours.
