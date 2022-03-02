@@ -40,7 +40,7 @@ The applications are not tied to any particular domain. You can download the ent
 
 **What's with all the bird names?**
 
-I like birds, and names are hard. At the moment, I'm listening to the gray catbird that sits in the azalea outside my office.
+I like birds, and names are hard. At the moment, I'm listening to a gray catbird mewing from the azalea outside my office.
 
 ## About
 
