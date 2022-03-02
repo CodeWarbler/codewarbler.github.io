@@ -15,7 +15,7 @@
 
 [Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, multi-track sound composing environment. The application is built on Tone.js, Tonal.js, P5.js and the Monaco editor.
 
-Flight documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Flight documents can be edited while playing. When a updated file is saved in the Flight editor, only the modifed tracks are altered at the next defined interval.
+Flight documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Flight documents can be edited while playing. When an updated file is saved in the Flight editor, only the modifed tracks are altered at the next defined interval.
 
 - [Examples](https://codewarbler.github.io/flight/examples/)
 - [Getting started](https://codewarbler.github.io/flight/tutorial/)
@@ -24,7 +24,7 @@ Flight documents are composed in JavaScript in the form of callback functions (T
 
 **Where is the source code for these projects?**
 
-The repos are [here](https://github.com/CodeWarbler/), though the code is not currently published for all projects. The plan is to open source each of these applications at the 0.2 release under a permissive license. If you'd like to help, reach out. The projects are based on Vue 2.
+The repos are [here](https://github.com/CodeWarbler/), though the code is not currently published for all projects. The plan is to publish each of these applications at the 0.2 release under a permissive open source license. If you'd like to help, reach out. The projects are based on Vue 2.
 
 **If I make a composition, where is the composition stored?**
 
