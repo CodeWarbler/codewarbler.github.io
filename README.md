@@ -6,14 +6,14 @@
 
 ### Warbler
 
-[Warbler](https://codewarbler.github.io/warbler/0.1/) is a sketchpad for Tone.js code. Its goal is to seamlessly visualize Tone.js constructs and provide simple user interface conventions to aid in the creation and development of Tone.js-based compositions.
+[Warbler](https://codewarbler.github.io/warbler/0.1/) is a sketchpad for [Tone.js](https://tonejs.github.io/) code. Warbler's goal is to seamlessly visualize Tone.js constructs and provide simple user interface conventions to aid in the creation and development of Tone.js-based compositions.
 
 - [Examples](https://codewarbler.github.io/warbler/examples/)
 - [Getting started](https://codewarbler.github.io/warbler/tutorial/)
 
 ### Flight
 
-[Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, multi-track sound composing environment. The application is built on Tone.js, Tonal.js, P5.js and the Monaco editor.
+[Flight](https://codewarbler.github.io/flight/0.1/) is a live-reloading, multi-track sound composing environment.
 
 Flight documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Flight documents can be edited while playing. When an updated file is saved in the Flight editor, only the modifed tracks are altered at the next defined interval.
 
