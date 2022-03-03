@@ -11,14 +11,14 @@
 - [Examples](https://codewarbler.github.io/warbler/#examples)
 - [Getting started](https://codewarbler.github.io/warbler/tutorial/)
 
-### Flight
+### Swoops
 
-[Flight](https://codewarbler.github.io/flight/0.1/) is a live-editing, multi-track sound composing environment.
+[Swoops](https://codewarbler.github.io/swoops/0.1/) is a live-editing, multi-track sound composing environment.
 
-Flight documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Flight documents can be edited while playing. When an updated file is saved in the Flight editor, only the modifed tracks are altered at the next defined interval.
+In Swoops, documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Swoops can edit files while they are being played. When an updated file is saved in the Swoops editor, only the modifed tracks are altered at the next defined interval.
 
-- [Examples](https://codewarbler.github.io/flight/#examples)
-- [Getting started](https://codewarbler.github.io/flight/tutorial/)
+- [Examples](https://codewarbler.github.io/Swoops/#examples)
+- [Getting started](https://codewarbler.github.io/Swoops/tutorial/)
 
 ## Frequently Asked Questions
 
