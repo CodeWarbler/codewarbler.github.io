@@ -8,7 +8,7 @@
 
 [Warbler](https://codewarbler.github.io/warbler/0.1/) is a sketchpad for [Tone.js](https://tonejs.github.io/) code. Warbler's goal is to seamlessly visualize Tone.js constructs and provide simple user interface conventions to aid in the creation and development of Tone.js-based compositions.
 
-- [Examples](https://codewarbler.github.io/warbler/examples/)
+- [Examples](https://codewarbler.github.io/warbler/#examples)
 - [Getting started](https://codewarbler.github.io/warbler/tutorial/)
 
 ### Flight
@@ -17,7 +17,7 @@
 
 Flight documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Flight documents can be edited while playing. When an updated file is saved in the Flight editor, only the modifed tracks are altered at the next defined interval.
 
-- [Examples](https://codewarbler.github.io/flight/examples/)
+- [Examples](https://codewarbler.github.io/flight/#examples)
 - [Getting started](https://codewarbler.github.io/flight/tutorial/)
 
 ## Frequently Asked Questions
