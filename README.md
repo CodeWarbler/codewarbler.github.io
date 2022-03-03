@@ -22,13 +22,13 @@ Flight documents are composed in JavaScript in the form of callback functions (T
 
 ## Frequently Asked Questions
 
-**Where is the source code for these projects?**
-
-The repos are [here](https://github.com/CodeWarbler/), though the code is not currently published for all projects. The plan is to publish each of these applications at the 0.2 release under a permissive open source license. If you'd like to help, reach out. The projects are based on Vue 2.
-
 **If I make a composition, where is the composition stored?**
 
 By default, these applications save one active file in your browser's local storage (IndexedDB to be precise). You can however generate a permanent document in the form of a URL. The URL can then be bookmarked, or shared with anyone and played in a modern browser (as of 2022). My favorite way to save and share compositions is via [Twitter](https://twitter.com/codewarbler). Most compositions will fit in a single tweet since URLs are automatically shortened on Twitter.
+
+**Where is the source code for these projects?**
+
+The repos are [here](https://github.com/CodeWarbler/), though the code is not currently published for all projects. The plan is to publish each of these applications under a permissive open source license. If you'd like to help, reach out. The projects are based on Vue 2.
 
 **I think I've found a bug. Where can I file a bug report?**
 
