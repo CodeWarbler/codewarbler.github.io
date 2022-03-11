@@ -17,8 +17,8 @@
 
 In Swoops, documents are composed in JavaScript in the form of callback functions (Tracks) that are performed at a defined interval. Unlike Warbler documents, Swoops can edit files while they are being played. When an updated file is saved in the Swoops editor, only the modifed tracks are altered at the next defined interval.
 
-- [Examples](https://codewarbler.github.io/Swoops/#examples)
-- [Getting started](https://codewarbler.github.io/Swoops/tutorial/)
+- [Examples](https://codewarbler.github.io/swoops/#examples)
+- [Getting started](https://codewarbler.github.io/swoops/tutorial/)
 
 ## Frequently Asked Questions
 
